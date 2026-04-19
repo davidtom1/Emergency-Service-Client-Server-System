@@ -7,7 +7,7 @@ This project implements a client-server messaging system using the STOMP (Simple
 ## Project Structure
 
 ```
-Assignment3/
+Emergency-Service-Client-Server-System/
 ├── client/              # C++ STOMP client implementation
 │   ├── include/         # Header files
 │   ├── src/            # Source files
